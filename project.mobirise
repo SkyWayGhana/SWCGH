@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyWay Ghana",
-    "currentPage": "index.html",
+    "currentPage": "skywayghana.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,12 +28,14 @@
         "isScrollToTopButton": false
       }
     },
+    "favicon": "",
+    "noImageResize": "",
     "versionFirst": "4.6.6",
     "uniqCompNum": 26,
     "versionPublish": "4.6.6"
   },
   "pages": {
-    "index.html": {
+    "skywayghana.html": {
       "settings": {
         "main": true,
         "title": "Home",
